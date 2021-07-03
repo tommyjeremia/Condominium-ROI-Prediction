@@ -1,4 +1,4 @@
-# Condominium-ROI-Prediction
+# Singapore-Condominium-ROI-Prediction
 
 > A wiseman built his house on rock. The rain fell, the floods came and buffeted the house. But it did not collapse; it had been set solidly on rock
 >
@@ -14,3 +14,4 @@ Even the bible talked about building or having a house and emphasize the importa
 
 - Linear Regression
 - OneMap API 
+- Feature Selection method of Backward Elimination
