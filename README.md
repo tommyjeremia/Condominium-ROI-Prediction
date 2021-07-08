@@ -15,3 +15,6 @@ Even the bible talked about building or having a house and emphasize the importa
 - Linear Regression
 - OneMap API 
 - Feature Selection method of Backward Elimination
+
+![profitBoxplot.jpg](/f1_profit_boxplot.jpg)
+
