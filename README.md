@@ -18,7 +18,7 @@ Even the bible talked about building or having a house and emphasize the importa
 
 ![profitBoxplot.jpg](/f1_profit_boxplot.jpg)
 
-###Conclusion
+### Conclusion
 Semi detached house is the most profitable out of the type of condominium
 Though it is shown that the East and North East have a high profitability compared to others, however only several data points in the region that able to reach profitability
 Central Area is a more safer choice, and most profit condominium comes from central area
